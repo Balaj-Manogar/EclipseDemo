@@ -7,5 +7,10 @@ public class SayHello
 	{
 		System.out.println("Hello " + name);
 	}
+	
+	public void sayHi(String name)
+	{
+		System.out.println("Hi " + name);
+	}
 
 }
